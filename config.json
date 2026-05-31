@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcave",
+        "uuid": 4216356,
+        "checksum": "fvjzk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
